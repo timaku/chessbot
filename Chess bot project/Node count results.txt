@@ -1,0 +1,73 @@
+Jamboree Constants:
+Divide cutoff = 3, percentange sequential = .3, sequential cutoff = 1/2 ply
+
+Starting test with JamboreeSearcher on ply: 1
+1238
+
+Starting test with JamboreeSearcher on ply: 2
+20885
+
+Starting test with JamboreeSearcher on ply: 3
+468455
+
+Starting test with JamboreeSearcher on ply: 4
+5168740
+
+Starting test with JamboreeSearcher on ply: 5
+79122869
+	
+Starting test with AlphaBetaSearcher on ply: 1
+1238
+
+Starting test with AlphaBetaSearcher on ply: 2
+16633
+
+Starting test with AlphaBetaSearcher on ply: 3
+295487
+
+Starting test with AlphaBetaSearcher on ply: 4
+3013155
+
+Starting test with AlphaBetaSearcher on ply: 5
+33558022
+
+
+ParallelSearcher Constants
+Divide cutoff = 3; sequential CUTOFF = 1/2 ply
+Starting test with ParallelSearcher on ply: 1
+1238
+
+Starting test with ParallelSearcher on ply: 2
+43414
+
+Starting test with ParallelSearcher on ply: 3
+1520569
+
+Starting test with ParallelSearcher on ply: 4
+54245664
+
+Starting test with ParallelSearcher on ply: 5
+1952117414
+
+	
+SimpleSearcher Constants
+Divide cutoff = 3; sequential CUTOFF = 1/2 ply
+Starting test with ParallelSearcher on ply: 1
+1238
+
+Starting test with ParallelSearcher on ply: 2
+43414
+
+Starting test with ParallelSearcher on ply: 3
+1520569
+
+Starting test with ParallelSearcher on ply: 4
+54245664
+
+Starting test with ParallelSearcher on ply: 5
+1952117414
+
+
+
+	
+

@@ -1,0 +1,143 @@
+JamboreeSearcher divide cutoff 3 and sequential cutoff of 2 (as determined by experiment), percentage seqnetial is .3......
+
+Starting test with JamboreeSearcher on ply: 5 with cutoff: 3 and with 32 cores
+Fen #: 1 Time elapsed
+66281332
+66615971
+64793692
+68008874
+76422159
+Average time: 68424405.6
+Fen #: 2 Time elapsed
+958658315
+936412043
+921146604
+924572160
+934911692
+Average time: 935140162.8
+Fen #: 3 Time elapsed
+339265331
+340297439
+336602886
+336672871
+337446680
+Average time: 338057041.4
+
+Starting test with JamboreeSearcher on ply: 5 with cutoff: 3 and with 16 cores
+Fen #: 1 Time elapsed
+72221632
+71659455
+70945287
+73007385
+70683547
+Average time: 71703461.2
+Fen #: 2 Time elapsed
+982704031
+994394683
+1003172283
+974092566
+990783122
+Average time: 989029337.0
+Fen #: 3 Time elapsed
+357158142
+347814307
+357940085
+350375574
+355522833
+Average time: 353762188.2
+
+
+Starting test with JamboreeSearcher on ply: 5 with cutoff: 3 and with 24 cores
+Fen #: 1 Time elapsed
+66688220
+68560094
+65969008
+71219273
+68414355
+Average time: 68170190.0
+Fen #: 2 Time elapsed
+899955117
+903359990
+897961731
+902699172
+925326738
+Average time: 905860549.6
+Fen #: 3 Time elapsed
+336363067
+328723192
+332902525
+334523716
+329414561
+Average time: 332385412.2
+
+28....
+Starting test with JamboreeSearcher on ply: 5 with cutoff: 3 and with 28 cores
+Fen #: 1 Time elapsed
+66737696
+65281334
+66953987
+73443571
+64050117
+Average time: 67293341.0
+Fen #: 2 Time elapsed
+870023725
+881559488
+848542367
+861319864
+888234633
+Average time: 869936015.4
+Fen #: 3 Time elapsed
+311149376
+312305988
+318229278
+315323482
+312477154
+Average time: 313897055.6
+
+26....
+Starting test with JamboreeSearcher on ply: 5 with cutoff: 3 and with 26 cores
+Fen #: 1 Time elapsed
+68488016
+69392980
+68157218
+74235383
+66680296
+Average time: 69390778.6
+Fen #: 2 Time elapsed
+880114245
+876582291
+873601343
+868866466
+867137255
+Average time: 873260320.0
+Fen #: 3 Time elapsed
+313576199
+314762466
+327435093
+311658295
+315485680
+Average time: 316583546.6
+
+25......
+Starting test with JamboreeSearcher on ply: 5 with cutoff: 3 and with 25 cores
+Fen #: 1 Time elapsed
+68114578
+66877393
+65653532
+69952235
+65074370
+Average time: 67134421.6
+Fen #: 2 Time elapsed
+866969870
+887791535
+895490485
+913142292
+892204358
+Average time: 891119708.0
+Fen #: 3 Time elapsed
+313586697
+316801357
+323166608
+316834817
+321258835
+Average time: 318329662.8

@@ -1,0 +1,191 @@
+Starting test with ParallelSearcher on ply: 5 with cutoff: 0
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 8098803631 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 7587796970 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 7753411718 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 8290756376 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 7879876000 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 274224923908 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 262325035646 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 265410122283 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 255973386755 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 240047274800 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 13420307412 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 14177014938 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 13390422049 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 13240256419 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 13265189053 nanoseconds
+
+Starting test with ParallelSearcher on ply: 5 with cutoff: 1
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 1049953104 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 1067629642 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 1076849121 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 1063733172 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 1080758228 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 20454286121 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 21158830215 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 20676240094 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 21197535740 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 20957633913 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1621561516 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1624633465 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1689283634 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1707424556 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1611493303 nanoseconds
+
+Starting test with ParallelSearcher on ply: 5 with cutoff: 2
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 746190421 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 757053650 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 750578957 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 795270758 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 791119853 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 16006704017 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 15861469708 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 15125815728 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 15352653444 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 15120695702 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1144745510 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1167332839 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1159063487 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1138355953 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1202698453 nanoseconds
+
+Starting test with ParallelSearcher on ply: 5 with cutoff: 3
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 704673010 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 676887166 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 682732061 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 690589280 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 681468680 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 15072291098 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 16396901889 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 15579361820 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 16422647462 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 15585258941 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1338930989 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1196788861 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1175734349 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1205953693 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1132193665 nanoseconds
+
+Starting test with ParallelSearcher on ply: 5 with cutoff: 4
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 1031580873 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 1167453811 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 1055888820 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 1029316581 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 974486946 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 16385385366 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 17286110753 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 17328022028 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 16470355045 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 18498155104 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 2427232370 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 1932402726 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 2228227158 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 2290361445 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 2186323449 nanoseconds
+
+Starting test with ParallelSearcher on ply: 5 with cutoff: 5
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 6750155231 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 6754660382 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 6707838129 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 6857024336 nanoseconds
+Fen #: 1 for ParallelSearcher just made e2e4 move
+Time elapsed: 6820744979 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 131193203501 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 130737423549 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 130514237965 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 133131969186 nanoseconds
+Fen #: 2 for ParallelSearcher just made f3e3 move
+Time elapsed: 132655168662 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 9675176754 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 9676362044 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 9782737292 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 9760696446 nanoseconds
+Fen #: 3 for ParallelSearcher just made a1b1 move
+Time elapsed: 9773226101 nanoseconds

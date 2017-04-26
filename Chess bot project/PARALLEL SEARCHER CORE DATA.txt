@@ -1,0 +1,146 @@
+These were all the 2nd run after the first run warmup.... (a for loop that ran twice on everything)
+divide cutoff of 3 and sequential cutoff of 3 for parallel searcher btw...
+
+Starting test with ParallelSearcher on ply: 5 with cutoff: 3 and with 16 cores
+Fen #: 1 Time elapsed
+519773471
+534725289
+523838884
+569857032
+516066586
+Average time: 532852252.4
+Fen #: 2 Time elapsed
+11531504971
+11030375802
+11681072139
+11157736222
+11413440234
+Average time: 11362825873.6
+Fen #: 3 Time elapsed
+817444914
+844188767
+842611085
+847668685
+845117828
+Average time: 839406255.8
+
+
+
+Starting test with ParallelSearcher on ply: 5 with cutoff: 3 and with 24 cores
+Fen #: 1 Time elapsed
+504344882
+522231274
+508672189
+493349809
+500722556
+Average time: 505864142.0
+Fen #: 2 Time elapsed
+10448100251
+10529219741
+10349057362
+10373023582
+10669519631
+Average time: 10473784113.4
+Fen #: 3 Time elapsed
+820753177
+797291665
+811666431
+828188500
+806557923
+Average time: 812891539.2
+
+
+
+Starting test with ParallelSearcher on ply: 5 with cutoff: 3 and with 28 cores
+Fen #: 1 Time elapsed
+475799360
+486546598
+465793010
+489711163
+478166249
+Average time: 479203276.0
+Fen #: 2 Time elapsed
+9757154193
+10149246834
+10102099939
+10091272710
+10093752835
+Average time: 10038705302.2
+Fen #: 3 Time elapsed
+788133828
+778638172
+772814086
+770658405
+780068980
+Average time: 778062694.2
+
+
+
+Starting test with ParallelSearcher on ply: 5 with cutoff: 3 and with 30 cores
+Fen #: 1 Time elapsed
+472517579
+477494851
+475072348
+482347507
+481436772
+Average time: 477773811.4
+Fen #: 2 Time elapsed
+9786369383
+9885703727
+9776886155
+9846076015
+9898117486
+Average time: 9838630553.2
+Fen #: 3 Time elapsed
+766257202
+765399105
+766473331
+770794162
+758109963
+Average time: 765406752.6
+
+Starting test with ParallelSearcher on ply: 5 with cutoff: 3 and with 31 cores
+Fen #: 1 Time elapsed
+462809899
+463365169
+467698357
+475716532
+466596397
+Average time: 467237270.8
+Fen #: 2 Time elapsed
+9751913360
+9669524894
+9720818678
+9679088248
+9623471493
+Average time: 9688963334.6
+Fen #: 3 Time elapsed
+742280582
+751835147
+752708118
+748421279
+744032569
+Average time: 747855539.0
+
+Starting test with ParallelSearcher on ply: 5 with cutoff: 3 and with 32 cores
+Fen #: 1 Time elapsed
+455589747
+443894858
+459159469
+460611178
+459069872
+Average time: 455665024.8
+Fen #: 2 Time elapsed
+9327218979
+9331773640
+9375481830
+9334233764
+9342096528
+Average time: 9342160948.2
+Fen #: 3 Time elapsed
+739928847
+742320423
+720057396
+718977009
+738369480
+Average time: 731930631.0

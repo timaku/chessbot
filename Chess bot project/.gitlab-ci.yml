@@ -1,0 +1,6 @@
+Ckpt1:
+    script: curl -s https://courses.cs.washington.edu/courses/cse332/gitlab-ci/p3/ckpt1.sh | bash
+Ckpt2:
+    script: curl -s https://courses.cs.washington.edu/courses/cse332/gitlab-ci/p3/ckpt2.sh | bash
+StaticAnalysis:
+    script: curl -s https://courses.cs.washington.edu/courses/cse332/gitlab-ci/p3/static.sh | bash
