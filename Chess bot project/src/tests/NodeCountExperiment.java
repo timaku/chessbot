@@ -47,7 +47,7 @@ public class NodeCountExperiment {
 	    		System.out.println(botName + " just made " + a + " move, number " + (i+1));
 	        }
     		
-    		out.println(s.a.get());
+    		//out.println(s.a.get());
     		System.out.println();
     	}
     
